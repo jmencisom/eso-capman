@@ -1,2 +1,1 @@
-# eso-capman
-Caption Manager
+# My project's README
